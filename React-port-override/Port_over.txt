@@ -1,0 +1,6 @@
+npm install -g json-server
+npm init react-app portOver
+cd portOver 
+npm start
+json-server --watch db.json
+
